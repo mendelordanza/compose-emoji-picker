@@ -79,3 +79,6 @@ ModalBottomSheetLayout(
     }
 )
 ```
+
+## Library Used
+https://github.com/chRyNaN/emoji
