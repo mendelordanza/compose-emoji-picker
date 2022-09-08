@@ -1,5 +1,9 @@
 # compose-emoji-picker
 
+
+## Sample
+<img src="https://github.com/mendelordanza/compose-emoji-picker/blob/main/untitled.gif" width="400" height="700"/>
+
 ## Installation
 **In `settings.gradle`**
 ```
@@ -74,5 +78,4 @@ ModalBottomSheetLayout(
         }
     }
 )
-
-## 
+```
