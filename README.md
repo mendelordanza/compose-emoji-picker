@@ -11,6 +11,7 @@ pluginManagement {
     repositories {
         ...
         maven { url 'https://jitpack.io' }
+        maven { url = uri("https://repo.repsy.io/mvn/chrynan/public") }
     }
 }
 dependencyResolutionManagement {
@@ -18,6 +19,7 @@ dependencyResolutionManagement {
     repositories {
         ...
         maven { url 'https://jitpack.io' }
+        maven { url = uri("https://repo.repsy.io/mvn/chrynan/public") }
     }
 }
 ```
