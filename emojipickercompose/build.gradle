@@ -46,7 +46,7 @@ dependencies {
     implementation "androidx.compose.material:material:$compose_version"
 
     //Emoji
-    implementation("com.chrynan.emoji:emoji-repo-map:0.3.0")
+    implementation "com.chrynan.emoji:emoji-repo-map:0.3.0"
 
     //HorizontalPager
     implementation "com.google.accompanist:accompanist-pager:0.24.1-alpha"
